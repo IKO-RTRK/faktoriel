@@ -11,7 +11,7 @@ int main()
 	n = faktoriel(0);
 	assert( n == 1);	
 
-	
+	printf("SVE OK\n");
 	return 0;
 }
 
