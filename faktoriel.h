@@ -1,0 +1,2 @@
+int faktoriel(int n);
+
